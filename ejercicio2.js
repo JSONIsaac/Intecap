@@ -13,6 +13,7 @@ async function obtenerUsuario(){
     return data.results[0]
 }
 
+
 //Funcion para obttener datos de contacto de un usuario
 
 async function obtenerDatosContacto(usuario){
